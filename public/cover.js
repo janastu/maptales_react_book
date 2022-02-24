@@ -1,4 +1,4 @@
-{
+window.cover = {
     "title": "Welcome to React Maptale",
     "subTitle": "A story told with React",
     "author": "Arun Kumar<arunkakorp@gmail.com>",

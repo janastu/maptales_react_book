@@ -1,4 +1,4 @@
-[
+window.nodes = [
     {
         "id": 0,
         "content": "Welcome to the Maptale",
