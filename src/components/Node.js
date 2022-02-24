@@ -4,11 +4,12 @@ import { useParams, Link } from 'react-router-dom';
 
 
 // Function component receives data as props from parent component App
-const Node = ({ nodes }) => {      
+const Node = () => { 
+    const nodes = window.nodes;
     const { id } = useParams();
     let nodeForPath;
     id ? nodeForPath = nodes[id] : nodeForPath = 0;
-
+    console.log(window.nodes) 
     return(
         <div className="Node">
             <header className="Node-header">
