@@ -3,6 +3,6 @@ window.cover = {
     "subTitle": "A story told with React",
     "author": "Arun Kumar<arunkakorp@gmail.com>",
     "pubDate": "2022-02-18T14:24:00+0530",
-    "coverImage": "img/cover.png",
+    "coverImage": "cover.jpg",
     "tags": [ "beginner", "interactive-narrative" ]
 }
